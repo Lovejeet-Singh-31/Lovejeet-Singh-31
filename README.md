@@ -1,6 +1,6 @@
 # Hi there, I'm Lovejeet Singh 👋
 
-### Senior Data Analyst | Data Scientist | Data Engineer | Microsoft Fabric Enthusiast
+### Associate Tech Lead | Data Scientist | Data Engineer | Microsoft Fabric Enthusiast
 
 I am a data professional with experience in **Data Analytics, Data Engineering, Business Intelligence, Machine Learning, and Cloud Technologies**. I enjoy transforming raw and complex data into meaningful insights, scalable data solutions, and intelligent applications.
 
